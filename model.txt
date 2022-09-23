@@ -1,0 +1,2 @@
+good,bad,amazing
+https://teachablemachine.withgoogle.com/models/_PdPdKXpx/model.json
